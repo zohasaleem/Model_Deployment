@@ -1,0 +1,184 @@
+Food_items,Breakfast,Lunch,Dinner,Snack,type,VegNonveg,Calories,Protein,Carbs,Fat,Fiber,Servings,Measurings,PreDiabetic,Diabetic
+Chapati,0,1,1,0,0,Veg,170,6,37,0.9,1.1,1,9 inch,1,0
+Ragi Roti,0,1,1,0,0,Veg,139,3,20,6,3.1,1,Large,1,1
+Makai Roti,0,1,1,0,0,Veg,114,1.6,17.1,4.6,1.8,1,6 inch,1,1
+Paratha Homemade,1,1,1,0,0,Veg,140,4.3,23.2,4.2,3.5,1,6 inch,1,0
+Naan,0,1,1,0,0,Veg,74,1.8,11.5,2.3,0.6,1,Mini,1,0
+Bun,1,1,1,0,0,Veg,161,4.3,33,0.6,0,1,Bun,0,0
+Double Roti,1,1,1,1,0,Veg,59,2.1,10.8,0.8,0.5,1,Slice,1,0
+Whole grain Bread,1,1,1,1,0,Veg,69,3.5,11.3,1.1,1.9,1,Slice,1,1
+Chawal,0,1,1,0,1,Veg,200,4.3,44.4,0.6,0.8,1,Cup,0,0
+Brown Rice,0,1,1,0,1,Veg,181,3.9,37.9,1.4,1.7,1,Cup,1,1
+Noodle,0,1,1,1,8,Veg,190,4,26,7,1.6,1,Pack,0,1
+Oats/Jow,1,0,0,0,8,Veg,144,5.2,24.1,2.9,4.2,9,Tablespoon,1,0
+Brown Rice Pulao,0,1,1,0,1,Veg,211,4.9,33.6,7,2.9,1,Cup,1,1
+Sandwich,1,0,0,1,8,Veg,226,6.5,34.2,6.9,2.9,1,Sandwich,1,1
+Aloo Samosa,0,0,0,1,8,Veg,276,3.6,27.9,16.6,1.9,1,Regular,1,0
+Rice pancake,0,0,0,1,8,Veg,170,2.6,27.1,5.7,0.6,2,Medium,1,1
+Cutlets,0,0,0,1,8,Veg,310,11.6,28.9,16.6,5.8,2,Piece,1,0
+Onion Pakora,0,0,0,1,3,Veg,162,2.6,11,11.9,1.8,4,Piece,1,0
+Diet Chivda,0,0,0,1,8,Veg,58,1.1,13,0.2,0.2,0.1,Cup,1,1
+Rice and urad daal pancake,1,0,0,1,8,Veg,226,5.2,31.7,8.7,2.6,1,Piece,1,1
+Aloo Paratha,0,1,1,0,0,Veg,203,4.7,31.2,6.7,4.4,1,Small,0,0
+Bhindi Sabzi,0,1,1,0,3,Veg,122,2.7,11.4,7.4,4.5,1,Cup,1,1
+Aloo Sabzi,0,1,1,0,3,Veg,118,1.6,19.5,3.8,1.7,1,Bowl,1,0
+Dahi bhindi,0,1,1,0,3,Veg,160,4.9,11.5,10.6,5.3,1,Cup,1,1
+Kaddu Sabzi,0,1,1,0,3,Veg,104,2.3,11.1,5.8,1.9,1,Cup,1,0
+Lauki Sabzi,0,1,1,0,3,Veg,84,1.1,6.1,6.1,4.2,1,Cup,1,1
+Karele Sabzi,0,1,1,0,3,Veg,84,2.6,9.6,4.1,5.9,1,Cup,1,1
+Lobia Sabzi,0,1,1,0,3,Veg,200,13.8,5.2,4.3,3.2,1,Cup,1,1
+Bandghobi Sabzi,0,1,1,0,3,Veg,103,2.5,7.8,6.9,4.3,1,Cup,1,1
+Phulghobi Sabzi,0,1,1,0,3,Veg,125,2.9,9.6,9.1,3.5,1,Cup,1,1
+Palak Sabzi,0,1,1,0,3,Veg,93,3.1,10.5,4.5,4,1,Cup,1,1
+Baingan Sabzi,0,1,1,0,3,Veg,105,2.1,8.8,7,3.7,1,Cup,1,1
+Shakarkandi,0,1,1,0,3,Veg,114,2.1,26.8,0.1,4,1,Piece,1,0
+Arvi Sabzi,0,1,1,0,3,Veg,212,0.8,23.3,13,3.6,0.5,Cup,1,1
+Mushroom,0,1,1,0,3,Veg,22,3,3.1,0.3,1,1,Bowl(small),1,1
+Matar,0,1,1,0,3,Veg,135,10.4,23.1,0.2,12.5,1,Cup,1,1
+Fat-free Paneer,0,1,1,0,8,Veg,256,52,6.8,2.3,0,1,Cup,1,1
+Soya,0,1,1,0,3,Veg,804,80.4,38.9,36.3,42.8,1,Cup,1,1
+Laal lobia,0,1,1,0,3,Veg,637,42.1,111.5,2.4,45.8,1,Cup,1,1
+Chole,0,1,1,1,2,Veg,271,11.1,39.2,8.5,10.6,1,Cup,1,1
+Broccoli,0,1,1,0,3,Veg,31,2.6,6.1,0.3,2.4,1,Cup,1,1
+Chocolate(Dark) - 40gm,0,0,0,1,7,Veg,223,2.4,22.9,13.5,0,40,Gram,1,1
+Protien Smoothies,1,0,0,1,5,Veg,224,11,25.5,8.2,4.5,1,Glass,1,1
+Banana & Honey smoothie,1,0,0,1,5,Veg,226,1.6,46.1,4,2.4,1,Glass,1,0
+Skim Milk,1,0,0,1,5,Veg,73,6.3,11.5,0.3,0,1,Cup,1,1
+Tea with Skim Milk,1,0,0,1,5,Veg,56,3.5,10.5,0.1,0,1,Cup,0,0
+Coffee with Skim Milk,1,0,0,1,5,Veg,103,5,20.3,0.2,1.2,1,Cup,0,0
+Tea without sugar and milk,1,0,0,1,5,Veg,2,0.2,0.4,0,0.1,1,Cup,1,1
+Coffee without sugar and milk,1,0,0,1,5,Veg,4,0.1,0.8,0,0,1,Cup,1,1
+Green Tea,1,0,0,1,5,Veg,0,0,0,0,0,1,Cup,1,1
+Butter Milk,0,0,1,0,5,Veg,45,2.3,2.3,3,0,1,Glass,1,1
+Lemonade,1,0,0,1,5,Veg,92,0.2,24.3,0.1,0.2,1,Glass,1,0
+Tamatar soup,0,1,1,1,3,Veg,85,2,11.2,3.7,3.2,1,Bowl,1,0
+Yoghurt/Curd/Dahi,1,1,1,0,5,Veg,150,8,11,8,0,1,Cup,1,1
+Badam/ Akhrot,1,0,0,1,8,Veg,164,6,6.1,14.2,3.5,28,Gram,1,1
+Spinach/Palak,0,1,1,0,3,Veg,8,0.6,0.9,0.2,0.8,1,Cup,1,1
+Methi Sabzi,0,1,0,0,3,Veg,120,4.7,14.6,5.3,5.3,1,Cup,1,1
+Apple/Saib,1,0,0,1,4,Veg,107,0.4,24.4,0.9,5.8,1,Medium,1,1
+Nashpati/Pear,1,0,0,1,4,Veg,93,1.1,21.2,0.4,7.7,1,Medium,1,1
+Anar,1,0,0,1,4,Veg,144,2.9,32.5,2,7,1,Cup,1,1
+Kino,1,0,0,1,4,Veg,88,1.3,20.1,0.4,2,1,Large,1,1
+Kiwi,1,0,0,1,4,Veg,42,0.8,10.1,0.4,2.1,1,Unit,1,0
+Tarboz,1,0,0,1,4,Veg,46,0.9,11.5,0.2,0.6,1,Cup,1,1
+Papita,1,0,0,1,4,Veg,46,0.9,10.3,0.2,3.8,1,Cup,1,1
+Kela,1,0,0,1,4,Veg,117,1.3,27.5,0.3,2,1,Medium,0,0
+Boil Bhutta,0,1,0,1,3,Veg,88,3.3,19,1.4,2,1,Medium,1,1
+Guava/Amrod,1,0,0,1,4,Veg,48,1.8,10,0.7,3.8,1,Unit,1,0
+Bhone Chane,0,0,0,1,2,Veg,270,9.6,46,5.3,7.3,0.5,Cup,1,1
+Whole grain Cereals,1,0,0,1,8,Veg,230,6,45,5,11.4,1,Cup,1,1
+Ubla hoa Anda,1,0,0,0,6,Nonveg,77,6.3,0.6,5.3,0,1,Large,1,0
+Anday ki safadi,1,0,0,0,6,Nonveg,34,7.2,0.5,0.1,0,2,Unit,0,1
+Scrammbled Egg,1,0,0,0,6,Nonveg,266,12.2,2.5,23.8,0.1,2,Unit,1,0
+Anda Ghotala,0,1,1,0,6,Nonveg,180,7.8,8.6,13.4,2.2,1,Cup,1,0
+Roasted Salmon Machli,0,1,1,0,6,Nonveg,551,67.7,1.7,28.4,0.6,2,Piece,1,1
+Roasted Palla Machli,0,1,1,0,6,Nonveg,94,5.4,1.8,7.3,0.5,2,Piece,1,1
+Roasted Srmai Macli,0,1,1,0,6,Nonveg,122,17.5,1.3,5.3,0.2,2,Piece,1,1
+Roasted Tuna Fish,0,1,1,0,6,Nonveg,176,18.6,1,10.4,0.4,2,Piece,1,1
+Chicken Yakhni,0,1,1,1,6,Nonveg,127,25.4,1.2,2.3,0.2,1,Bowl(small),1,1
+Grilled Chicken,0,1,1,0,6,Nonveg,285,41.3,1.1,11.7,0.3,2,Piece,1,1
+Roasted Chicken,0,1,1,0,6,Nonveg,285,41.3,1.1,11.7,0.3,2,Piece,1,1
+Baked Chicken,0,1,1,0,6,Nonveg,204,34,0.2,6.5,0.2,2,Piece,1,1
+Fried Chicken,0,1,1,0,6,Nonveg,563,30.7,9.8,43.7,0.4,1,Piece,1,0
+Chicken Shawarma,0,1,1,0,6,Nonveg,391,24.7,27.7,20.4,3.4,1,Roll,1,0
+Bakre ka Ghost,0,1,1,0,6,Nonveg,116,11.1,0,80,0,60,Gram,1,1
+Mix Sabzi,0,1,1,0,3,Veg,382,8.3,61.3,11.7,3.4,1,Plate,0,0
+Golgappay,0,0,0,1,8,Veg,211,4.3,36.3,5.5,2.9,5,Piece,1,0
+Fried Rice,0,1,1,0,1,Veg,136,2.3,22.3,3.9,0.9,1,Bowl,0,0
+Gulab Jamun,0,1,1,1,7,Veg,143,2.5,24,5.2,0.1,1,Piece,0,0
+Daal,0,1,1,0,2,Veg,116,2.5,24,5.2,0.1,1,Bowl,1,1
+Low Fat Peanut butter Sandwich,1,0,0,1,8,Veg,125,2.5,24,5.2,0.1,1,Unit,1,1
+Low Fat Cheese Sandwitch,1,0,0,1,8,Veg,190,2.5,24,5.2,0.1,1,Unit,1,1
+Rice pudding,0,1,1,0,7,Veg,245,5.3,46.3,4.8,0.3,1,Bowl,0,1
+Chocolate Icecream,0,0,1,1,7,Veg,285,5,37.2,14.5,1.6,1,Cup,0,0
+Vanilla Ice cream,0,0,1,1,7,Veg,145,2.5,14.4,8.6,0,1,Cup,0,0
+Strawberry Icecream,0,0,1,1,7,Veg,127,2.1,18.2,5.6,0.6,1,Cup,0,0
+Cereals-Corn Flakes,1,0,0,1,8,Veg,131,1.8,30.3,0.3,1.5,1,Cup,1,1
+Celery Soup,0,1,1,1,3,Veg,97,1.5,8.4,6.3,1.6,1,Bowl(small),1,1
+Corn Soup,0,1,1,1,3,Veg,120,4.2,15.3,5.2,0.8,1,Bowl(small),1,1
+Hot and sour soup,0,1,1,1,3,Veg,88,3.1,9.3,4.5,1.1,1,Bowl(small),1,1
+Aloo gosht(Mutton),0,1,1,0,6,Nonveg,192,5,20,14,2.1,1,Bowl(small),1,1
+Palak gosht(Mutton),0,1,1,0,6,Nonveg,164,11.1,3.7,11.8,1.4,1,Bowl(small),1,1
+Aloo Palak,0,1,1,0,3,Nonveg,122,2.9,15.6,5.5,3.6,1,Cup,1,1
+Tinday gosht,0,1,1,0,6,Nonveg,178,10.9,3.8,13.4,1.1,1,Bowl(small),1,1
+Tinday Sabzi,0,1,1,0,3,Nonveg,111,2.8,7.3,8.1,4.6,1,Cup,1,1
+Bhindi gosht,0,1,1,0,6,Nonveg,169,8.9,6.3,12.2,2.1,1,Bowl(small),1,1
+Moong Daal,0,1,1,0,2,Veg,250,12.5,31.4,1.9,4.5,1,Cup,1,1
+Chanay ki daal,0,1,1,0,2,Veg,131,5.8,17,4.5,4.6,1,Bowl(small),1,1
+Masoor ki daal,0,1,1,0,2,Veg,394,28.9,67.9,0.8,11.9,1,Bowl(small),1,1
+Sabut masoor Daal,0,1,1,0,2,Veg,122,7.9,20.1,1.9,5.7,1,Bowl(small),1,1
+Arvi gosht,0,1,1,0,6,Nonveg,122,7.9,9.5,6.1,2.6,1,Bowl(small),1,1
+Baingan Aloo Sabzi,0,1,1,0,3,Veg,81,1.7,12.2,3,2.7,1,Bowl(small),1,1
+Karele pyaz,0,1,1,0,3,Veg,80,1.7,12.2,3,2.7,1,Plate,1,1
+Karele gosht,0,1,1,0,6,Nonveg,419,1.7,12.2,3,2.7,1,Plate,1,1
+Safed chanay,0,1,1,1,2,Veg,235,1.7,12.2,3,2.7,1,Bowl,1,1
+Kaalay chanay,0,1,1,1,2,Veg,720,34.2,121.8,10.6,56.6,44.8,Cup,1,1
+Murgh Chole,0,1,1,0,6,Veg,370,34.2,121.8,10.6,56.6,1,Plate,1,1
+Dhaleem,0,1,1,0,6,Nonveg,235,11.9,20.4,11.8,3.9,1,Bowl(small),1,1
+Chicken Nihari,0,1,1,0,6,Nonveg,148,22.5,4.8,4.4,1.2,1,Bowl(small),1,1
+Mutton Nihari,0,1,1,0,6,Nonveg,185,12.5,6.1,12.5,1.5,1,Bowl(small),1,0
+Chicken Pulao,0,1,1,0,6,Nonveg,155,6.6,19.2,5.7,0.7,1,Bowl(small),1,1
+Mutton Palao,0,1,1,0,6,Nonveg,163,6.9,19.6,6.2,0.7,1,Bowl(small),1,0
+Chicken Biryani,0,1,1,0,6,Nonveg,167,8,17.7,6.8,0.6,1,Bowl(small),1,1
+Chicken Qorma,0,1,1,0,6,Nonveg,167,23.9,4.4,6,1.2,1,Bowl(small),1,1
+Chicken Karahi,0,1,1,0,6,Nonveg,142,13.9,7.4,6.3,2.6,1,Bowl(small),1,1
+Mutton Qorma,0,1,1,0,6,Nonveg,192,14,4.4,13.3,1.1,1,Bowl(small),1,0
+Mutton Karahi,0,1,1,0,6,Nonveg,148,10.3,4.9,9.9,1.5,1,Bowl(small),1,0
+Loki Gosht,0,1,1,0,6,Nonveg,160,9.3,4.7,11.6,2.2,1,Bowl(small),1,1
+Chinese Fried Rice,0,1,1,0,1,Veg,343,9.3,4.7,11.6,2.2,1,Bowl(small),1,1
+Chicken Shami Kabab,0,1,1,1,6,Nonveg,138,9.3,4.7,11.6,2.2,1,piece,1,1
+Chicken Tikka,0,1,1,0,6,Nonveg,76,8.9,1,3.7,0.3,1,Piece,1,1
+Chicken Seekh Kabab,0,1,1,0,6,Nonveg,109,7.4,2.2,8,0.5,1,Piece,1,1
+Chicken Gola Kabab,0,1,1,0,6,Nonveg,35,3.3,0.6,2.2,0.1,1,Piece,1,1
+Chicken Sajji,0,1,1,0,6,Nonveg,506,3.3,0.6,2.2,0.1,1,Quarter,1,1
+Mutton Seekh Kabab,0,1,1,0,6,Nonveg,160,7,2.1,13.6,0.4,1,Piece,1,1
+Chapali Kabab,0,1,1,0,6,Nonveg,207,6.2,23.4,9.7,2.2,1,Piece,1,1
+Mash ki Daal,0,1,1,0,2,Veg,217,6.2,16.2,14.1,3.4,1,Bowl,1,1
+Baingan ki Sabzi,0,1,1,0,3,Veg,63,1.3,5.3,4.2,2.2,1,Cup,1,1
+Fried Egg,1,0,0,0,6,Nonveg,129,6.7,1.1,11.3,0,1,Piece,1,1
+Omelette,1,0,0,0,6,Nonveg,127,6.7,1.1,11.1,0,1,Unit,1,1
+Vegetable Omellete,1,0,0,0,6,Nonveg,133,6.8,2.4,11.2,0.5,1,Unit,1,1
+Boiled Egg,1,0,0,0,6,Nonveg,77,6.3,0.6,5.3,0,1,Unit,1,1
+Chicken Chowmein,0,1,1,1,6,Nonveg,194,6.3,0.6,5.3,0,1,Bowl,1,1
+Garlic Chicken,0,1,1,0,6,Nonveg,130,16.1,4,11.2,0.8,1,Bowl,1,1
+Chincken Handi,0,1,1,0,6,Nonveg,115,18.5,5,2.4,1.9,1,Bowl,1,1
+Chicken with Vegetables and Mushroom,0,1,1,0,6,Nonveg,328,18.5,5,2.4,1.9,1,Plate,1,1
+Chicken Steak,0,1,1,0,6,Nonveg,698,18.5,5,2.4,1.9,1,Piece,1,0
+Mixed Vegetables,0,1,1,0,3,Veg,82,1.8,6.7,5.6,2.4,1,Bowl,1,1
+Beans Salad,0,1,1,1,3,Veg,89,4.7,16.7,1,4.1,1,Bowl,1,1
+Chana Chaat,0,0,0,1,2,Veg,104,4.8,18.4,1.5,7.9,1,Bowl,1,1
+Dahi Bhalay/ Dahi Baray,0,0,0,1,8,Veg,194.3,4.8,18.4,1.5,7.9,1,Bowl,1,1
+Chicken Spring Rolls,0,1,1,1,6,Nonveg,198,6,20.2,10,1.1,1,Roll,1,0
+Chicken Drum Stick,0,1,1,1,6,Nonveg,122,5.6,4.3,9.2,0.4,1,Piece,1,1
+Vegetable Chowmein,0,1,0,0,3,Veg,129,3.7,21.5,3.3,0.9,1,Bowl,1,0
+Chicken with Oyester Sauce,0,1,1,0,6,Nonveg,450,3.7,21.5,3.3,0.9,1,Serving,1,1
+Chicken with Mushroom Sauce,0,1,1,0,6,Nonveg,346,3.7,21.5,3.3,0.9,1,Serving,1,1
+Black Tea with Milk,1,0,0,1,5,Veg,160,3.7,21.5,3.3,0.9,1,Cup,1,1
+Coffee with Milk,1,0,0,1,5,Veg,129,4.6,14.5,5.9,0.9,1,Cup,1,1
+Rusk/Papa,0,0,0,1,0,Veg,43,1,6.4,1.6,0.4,1,Piece,1,1
+Aloo Keema,0,1,1,0,6,Nonveg,104,10,7,4.1,1.4,1,Bowl,1,1
+Matar Keema,0,1,1,0,6,Nonveg,180,7.9,4.6,14.4,1.3,1,Bowl,1,1
+Shimla Mirch Keema,0,1,1,0,6,Nonveg,102,8.7,6.7,4.7,2.8,1,Bowl,1,1
+Vegetable Fried Rice,0,1,1,0,1,Veg,136,2.3,22.3,3.9,0.9,1,Bowl,1,1
+Safed Lobia Salan,0,1,1,0,3,Veg,242,9.5,22.7,7.6,3.3,1,Cup,1,1
+Dhaka Chicken,0,1,1,0,6,Nonveg,263,15.8,7.8,18,1.2,1,Bowl,1,1
+Peach/ Arhoo,0,0,0,1,4,Veg,50,15.8,7.8,18,1.2,1,Piece,1,1
+Jamun,0,1,1,1,4,Veg,75,15.8,7.8,18,1.2,1,Cup,1,1
+Apricot/Khubani,0,1,1,1,4,Veg,17,15.8,7.8,18,1.2,1,Piece,1,1
+Pear/Amrood,0,1,1,1,4,Veg,100,15.8,7.8,18,1.2,1,Piece,1,1
+Cucumber/Kheera,0,1,1,1,4,Veg,8,15.8,7.8,18,1.2,1,Piece,1,1
+Chicken Shashlik,0,1,1,0,6,Nonveg,130,3.4,8.1,9.6,2,1,Skewer,1,1
+Chicken Roast,0,1,1,0,6,Nonveg,142,20.6,0.5,5.9,0.2,1,Piece,1,1
+Cherry,0,1,1,1,4,Veg,4,20.6,0.5,5.9,0.2,1,Piece,1,1
+Grapes/Angoor,0,1,1,1,4,Veg,34,20.6,0.5,5.9,0.2,10,Piece,1,1
+Melon/Kharboza,0,1,1,1,4,Veg,53,20.6,0.5,5.9,0.2,1,Cup,1,1
+Chicken Broast,0,1,1,0,6,Nonveg,163,20.6,0.5,5.9,0.2,1,Piece,1,1
+Banana/ Keela,0,1,1,1,4,Veg,105,20.6,0.5,5.9,0.2,1,Piece,1,1
+Lasagna,0,0,1,0,8,Nonveg,69,2.4,14.2,0.2,0.7,1,Piece/ Sheet,1,0
+Chicken Pasta with White Sauce,0,1,1,1,6,Nonveg,364,20.6,34.8,15.1,1.4,1,Cup,1,0
+Chicken Pasta with Red Sauce,0,1,1,1,6,Nonveg,164,11,18.6,4.5,1.1,1,Bowl,1,0
+Brown Bread,1,1,1,1,0,Veg,148,4.9,26.4,1.7,3.3,2,Slice,1,1
+Bran Bread,1,1,1,1,0,Veg,116,2.9,20.5,2.8,2.1,2,Slice,1,1
+Strawberry,1,1,1,1,4,Veg,2,2.5,13.2,0.8,1.7,1,Piece,1,1
+Grilled Chicken with Vegetables,0,1,1,0,6,Nonveg,197,15.3,5.4,12.7,1.9,1,Cup,1,1
